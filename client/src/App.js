@@ -16,14 +16,14 @@ import Contact from "./components/Contact";
 function App() {
   return(
     <div>
-    <Router>
+    
   <Navbar />
   <Home/>
   <About/>
   <Skills/>
   <Work/>
   <Contact/>
-</Router>
+
   </div>
   )
   
