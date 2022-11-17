@@ -19,6 +19,8 @@ const Home = () => {
           designing exceptional digital experiences. Currently, I’m focused on
           building responsive full-stack web applications.
         </p>
+        {/* <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="verah-k-57b111213" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/verah-k-57b111213?trk=profile-badge">Verah K.</a></div> */}
+              
         <div>
         <Link to='about' smooth={true} duration={500}>
         <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
